@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<examples>
+	<rule id="1" numberOfDoors="2" enginePower="60" color="Blue"
+		brand="Opel">
+	</rule>
+
+	<rule id="2" numberOfDoors="2" enginePower="100" color="Black"
+		brand="Nissan">
+	</rule>
+
+	<rule id="3" numberOfDoors="2" enginePower="200" color="Black"
+		brand="Ferrari">
+	</rule>
+
+	<rule id="4" numberOfDoors="3" enginePower="100" color="Red"
+		brand="Opel">
+	</rule>
+
+	<rule id="5" numberOfDoors="3" enginePower="100" color="Red"
+		brand="Opel">
+	</rule>
+
+	<rule id="6" numberOfDoors="3" enginePower="200" color="Black"
+		brand="Ferrari">
+	</rule>
+
+	<rule id="7" numberOfDoors="4" enginePower="100" color="Blue"
+		brand="Nissan">
+	</rule>
+
+	<rule id="8" numberOfDoors="4" enginePower="100" color="Blue"
+		brand="Nissan">
+	</rule>
+
+</examples>
